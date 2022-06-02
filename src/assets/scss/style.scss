@@ -1,0 +1,19 @@
+:root{
+    --rt-primary-color:#05486a;
+    --rt-primary-second-color:#1ba301;
+}
+.card-border{
+    border: 1px solid #8f90a6 !important;
+}
+/* Desktop */
+@media (min-width: 1025px) {
+    .search-fieald{
+        width: 30%;
+    }
+}
+ /* Tab */
+ @media (min-width: 481px) and (max-width: 1024px) {
+}
+ /* Mobile */
+ @media (max-width: 480px) {
+}
